@@ -1,22 +1,16 @@
 ## What's here
 
-## langChain starter
-Starter code for langChain RAG.
 
-## db_attempt
+## db
 ### Embeddings
-Python scripts for making embeddings locally
+Scripts to generate embeddings & push back up to DB
 ### old
 old stuff I'm afraid to delete
 ### ollama
-Modelfile for a SQL agent, and python scripts for said agent and a summary agent
+Modelfiles and scripts to run said agents/models
 ### schema
 .sql files to make DB
 ### simpsons_csvs
-Raw data, from [Kaggle](https://www.kaggle.com/wcukierski/the-simpsons-by-the-data) but also synthetic stuff
-## materials
-pdfs, txt, other junk
+Raw data, from https://data.world/data-society/the-simpsons-by-the-data & scripts
 
 
-# Potential to-do
--
